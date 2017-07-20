@@ -16,3 +16,16 @@ Typical use cases include:
 
 • Data integration: Data produced by different systems across a business is rarely clean or consistent enough to simply and easily be combined for reporting or analysis. Extract, transform, and load (ETL) processes are often used to pull data from different systems, clean and standardize it, and then load it into a separate system for analysis. Spark (and Hadoop) are increasingly being used to reduce the cost and time required for this ETL process.
 
+Relocate: Looking for good global exposure and new career opportunities
+Notice period: 30 days
+Technologies: Java, Spring, Hadoop, Hbase, Rest, Big data, Machine Learning, Html, Java Script, Gem fire, Oracle, MsSql, Python 
+Reason for switching: For better career opportunities 
+Visa Required?: yes
+Startup experience: No
+Motivation for N26 (What do you like about the bank from what you've seen): Since N26 is Europe’s first Mobile Bank with a full European banking license. It is redesigned the banking experience to be simple, fast and contemporary, so it is the motivation to join N26.
+Salary expectations: Industry Standards
+Leadership experience: Has good experience in leading/guiding teams of developers. 
+Agile environments: Certified International Scrum Master Foundation, for agile. Worked on agile and scrum throughout my career
+City: Berlin sets the pace for percentage growth of new start-ups. Fast-forward to 2017 and innovation is booming for the German capital. It has the fastest growing start-up eco-system in the world, receiving some of the largest venture capitalist investment in Europe. Since the demolition of the wall in 1989, Berlin has been re-inventing itself to contend with some of the biggest giants of technology innovation, providing great opportunities for entrepreneurs on companies to take advantage of hike in development.
+Biggest achievement: Was able to delivery end to end solution to the client in a short span.
+Type of people he would desire to work with: Positive people.
